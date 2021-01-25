@@ -1,0 +1,32 @@
+.bgGrey {
+    background-color: gray;
+}
+
+.staticMenu {
+    position: sticky;
+}
+
+.box {
+    width: 450px;
+    background-color: #ffffff;
+    margin-top: 15px;
+    margin-left: 33%;
+}
+
+.centered {
+    margin: 0;
+}
+
+.floatLeft {
+    float: left;
+    padding: 5px;
+}
+
+.floatRight {
+    float: right;
+    padding: 5px;
+}
+
+p {
+    padding: 5px;
+}
